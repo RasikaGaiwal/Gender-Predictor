@@ -1,4 +1,4 @@
-# Gender-Predictor
+# Gender-Predictor 
 Consider a labeled dataset of names and their respective gender. Apply suitable data preprocessing
 steps such as handling of null values, data reduction, discretization. For prediction of class labels of given
 data instances, build classifier models using different techniques (Naïve Bayes Algorithm, Decision Tree Classifier, Random Forest Classifier).
